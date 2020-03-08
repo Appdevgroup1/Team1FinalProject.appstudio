@@ -1,7 +1,7 @@
 
 
 CalenderLink.onclick=function(){
-  ChangeForm(streamPage)
+  ChangeForm(calenderPage)
 }
 
 ReciepeLink.onclick=function(){
@@ -9,5 +9,5 @@ ReciepeLink.onclick=function(){
 }
 
 StreamLink.onclick=function(){
-  ChangeForm(calenderPage)
+  ChangeForm(streamPage)
 }
