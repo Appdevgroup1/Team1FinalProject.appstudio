@@ -18,32 +18,32 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "homePage",
+            "homePage.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "Form2",
-            "Form2.json"
+            "streamPage",
+            "streamPage.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "Form3",
-            "Form3.json"
+            "recipesPage",
+            "recipesPage.json"
           ]
         },
         {
           "!type": "External",
           "file": [
             "forms",
-            "Form4",
-            "Form4.json"
+            "calenderPage",
+            "calenderPage.json"
           ]
         }
       ],
@@ -63,7 +63,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "homePage",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/192.png",
